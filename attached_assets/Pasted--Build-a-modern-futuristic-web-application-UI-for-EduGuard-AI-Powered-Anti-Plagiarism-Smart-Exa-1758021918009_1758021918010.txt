@@ -1,0 +1,117 @@
+"Build a modern, futuristic web application UI for EduGuard – AI-Powered Anti-Plagiarism & Smart Exam Integrity System, created by team DARKWING’s for Smart IGNOU Hackathon 2025.
+
+Pages & Features to Include:
+
+Landing Page
+
+Hero section with glowing text EduGuard and tagline ‘AI-Powered Integrity for Smarter Learning’.
+
+Background: animated gradient with subtle floating particles.
+
+CTA buttons: Get Started and Learn More (with hover glow & smooth animation).
+
+Problem Statement Page
+
+Animated cards showing:
+
+High plagiarism in assignments/projects
+
+Online exam cheating (multiple persons, unauthorized help)
+
+Lack of affordable originality tools
+
+Sliding animation on scroll.
+
+Solution Page (EduGuard)
+
+Showcase proposed solutions:
+
+Plagiarism Checker (text & code)
+
+Smart AI Proctoring (face detection, 2+ face warning)
+
+Blockchain-based tamper-proof record keeping
+
+Glassmorphism styled feature cards with hover effects.
+
+Key Features Page
+
+File upload → plagiarism % report (animated progress bar).
+
+Webcam-based exam monitoring UI with live detection highlights.
+
+Blockchain ledger viewer with unique hash display.
+
+Smooth tab navigation for features.
+
+Technology Stack Page
+
+Animated icons for:
+
+Frontend: HTML, CSS, Bootstrap, React
+
+Backend: Python Flask
+
+Libraries: difflib, spaCy, OpenCV, hashlib
+
+Database: SQLite/JSON ledger
+
+Neon glow hover animation on each tech card.
+
+System Architecture Page
+
+Flow diagram (User → Upload → Processing → Results → Blockchain Ledger).
+
+Use animated arrows or step-by-step reveal transitions.
+
+Demo Flow Page
+
+Step 1: Upload file → plagiarism % report
+
+Step 2: Start test → live face detection UI
+
+Step 3: Upload → hash entry generated in blockchain ledger
+
+Smooth sliding walkthrough animation.
+
+Dashboard (after login)
+
+Sidebar with glowing icons.
+
+Cards for assignments, plagiarism history, test monitoring, and blockchain logs.
+
+Animated charts showing usage stats.
+
+Future Scope Page
+
+AI semantic plagiarism detection
+
+Cloud blockchain ledger
+
+Mobile app integration
+
+Animate with timeline scroll effect.
+
+Team Page
+
+Dark futuristic cards for 6 team members:
+
+Frontend (2)
+
+Backend (3)
+
+Documentation & Testing (1)
+
+Hover flip animation for each profile card.
+
+Design & Animation Guidelines:
+
+Dark futuristic theme with neon accents (blue, purple, cyan).
+
+Glassmorphism cards with soft shadows & hover glow.
+
+Smooth transitions: fade-in, slide-up, hover scaling, 3D tilt.
+
+Animated background gradients + floating particles for cinematic effect.
+
+Professional hackathon-ready UI with premium typography."
